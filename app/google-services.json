@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "135449055369",
+    "firebase_url": "https://my-chat-app-4b2fb.firebaseio.com",
+    "project_id": "my-chat-app-4b2fb",
+    "storage_bucket": "my-chat-app-4b2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135449055369:android:ae0995c9d64ee9db",
+        "android_client_info": {
+          "package_name": "com.example.samarth.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135449055369-dhknch6019h6bp7rpiipg8r4pmekcb1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samarth.mychatapp",
+            "certificate_hash": "4557dbef7aa3985368b9f00b0c6d0e91636fb695"
+          }
+        },
+        {
+          "client_id": "135449055369-4a2k1lpi4b0d23a928epcoar8ga22du9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJd1iv4IU3yGK5N0gmHmcUHrFXZHmWi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135449055369-4a2k1lpi4b0d23a928epcoar8ga22du9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
